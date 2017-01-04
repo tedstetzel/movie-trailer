@@ -2,28 +2,18 @@ import fresh_tomatoes
 import media
 
 a_new_hope = media.Movie("Star Wars - A New Hope",
-                         "Luke Skywalker and a motley group of rebels and"
-                         " robots"
-                         " battle the evil Darth Vadar",
                          "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",  # NOQA
                          "https://www.youtube.com/watch?v=1g3_CFmnU7k")
 
 empire_strikes_back = media.Movie("The Empire Strikes Back",
-                                  "After the rebels have been brutally"
-                                  " overpowered by the Empire on their newly"
-                                  " established base, Luke Skywalker takes"
-                                  " advanced Jedi training with Master",
                                   "https://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes_Back.jpg",  # NOQA
                                   "https://www.youtube.com/watch?v=xESiohGGP7g")    # NOQA
 
 return_of_the_jedi = media.Movie("Return of the Jedi",
-                                 "After rescuing Han Solo from the palace of"
-                                 " Jabba the Hutt, the rebels attempt to"
-                                 " destroy the second Death Star",
                                  "https://upload.wikimedia.org/wikipedia/en/b/b2/ReturnOfTheJediPoster1983.jpg",  # NOQA
                                  "https://www.youtube.com/watch?v=5UfA_aKBGMc")
 
-phantom_menace = media.Movie("The Phantom Menace"
+phantom_menace = media.Movie("The Phantom Menace",
                              "https://upload.wikimedia.org/wikipedia/en/4/40/Star_Wars_Phantom_Menace_poster.jpg",  # NOQA
                              "https://www.youtube.com/watch?v=I6hOlI9cg4o")
 
