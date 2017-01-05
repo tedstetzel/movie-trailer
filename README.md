@@ -1,6 +1,6 @@
 # Movie Trailer Website
 
-This application will create a single web page featuring a list of movies supplied by the user. 
+This application will create a single web page featuring a list of movies supplied by the user. You can also click on the movie posters to watch the trailer. 
 
 
 ![Example of site running in Chrome](https://s3-us-west-1.amazonaws.com/tstetzel-assets/Udacity/movie-trailer-screenshot.jpg)
@@ -8,50 +8,37 @@ This application will create a single web page featuring a list of movies suppli
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The directions below help you get a copy of the project running on your local machine testing.
 
 ### Prerequisites
 
-This project requires Python to run. 
+This project requires Python to run. I built this project using V 2.7.x.  Check to make sure you have 
 
 ```
-Give examples
+python -V
 ```
 
 ### Installing
 
-Make sure that you have python installed 
+
+cd to the directory to which you've downloaded the repo and run the entertainment_center.py file 
 
 ```
-Give the example
+python entertainment_center.py 
 ```
 
-cd to the directory to which you've downloaded the repo.
+The file should automatically open a new web browser window with movie posters listed in that file displayed. 
 
-```
-until finished
-```
-
-Run the file entertainment-center.py The file should automatically open a new web browser window with Movie Trailers displayed. 
-
-```
-until finished
-```
 
 ## Built With
 
-* [Python](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [BootStrap](https://maven.apache.org/) - Dependency Management
-* [Udacity](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python](https://www.python.org/) - Backend Language
+* [BootStrap](http://getbootstrap.com/) - HTML/CSS/JS Framework
+* [Wikipedia and Youtube] images and move trailers 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+The file fresh_tomatoes.py was provided by https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py
 
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
