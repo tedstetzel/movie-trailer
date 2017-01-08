@@ -40,6 +40,7 @@ You can update the python entertainment_center.py file in order to customize the
 ## Contributing
 
 The file fresh_tomatoes.py was provided by https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py
+
 This project was done as part of a Udacity project (https://www.udacity.com/)
 
 
