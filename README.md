@@ -12,11 +12,12 @@ The directions below help you get a copy of the project running on your local ma
 
 ### Prerequisites
 
-This project requires Python to run. I built this project using V 2.7.x.  Check to make sure you have 
+This project requires Python to run. I built this project using V 2.7.x.  Check to make sure you have Python installed.  
 
 ```
 python -V
 ```
+You can download Python here: https://www.python.org/downloads/
 
 ### Installing
 
@@ -28,6 +29,7 @@ python entertainment_center.py
 ```
 
 The file should automatically open a new web browser window with movie posters listed in that file displayed. 
+You can update the python entertainment_center.py file in order to 
 
 
 ## Built With

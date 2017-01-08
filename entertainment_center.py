@@ -1,6 +1,8 @@
 import fresh_tomatoes
 import media
 
+#  Create a list of movies using title, poster link, youtube trailer link
+
 a_new_hope = media.Movie("Star Wars - A New Hope",
                          "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",  # NOQA
                          "https://www.youtube.com/watch?v=1g3_CFmnU7k")
@@ -33,7 +35,7 @@ rogue_one = media.Movie("Rogue One",
                         "https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png",  # NOQA
                         "https://www.youtube.com/watch?v=frdj1zb9sMY")
 
+# Put movies into an array to pass to fresh_tomatoes.py to create webpage
 movies = [a_new_hope, empire_strikes_back, return_of_the_jedi, phantom_menace,
           attack_of_the_clones, revenge_of_the_sith, force_awakens, rogue_one]
 fresh_tomatoes.open_movies_page(movies)
-print(media.Movie.__doc__)
