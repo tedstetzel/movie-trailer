@@ -37,7 +37,7 @@ You can update the python entertainment_center.py file in order to customize the
 * [BootStrap](http://getbootstrap.com/) - HTML/CSS/JS Framework
 * [Wikipedia and Youtube] images and move trailers 
 
-## Contributing
+## Contributors
 
 The file fresh_tomatoes.py was provided by https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py
 
