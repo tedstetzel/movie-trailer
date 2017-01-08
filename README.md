@@ -1,6 +1,6 @@
 # Movie Trailer Website
 
-This application will create a single web page featuring a list of movies supplied by the user. You can also click on the movie posters to watch the trailer. 
+This application will create a single web page featuring a list of movies supplied by the user. You can also click on the movie posters to watch the trailer for each movie. 
 
 
 ![Example of site running in Chrome](https://s3-us-west-1.amazonaws.com/tstetzel-assets/Udacity/movie-trailer-screenshot.jpg)
