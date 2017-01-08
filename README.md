@@ -8,11 +8,11 @@ This application will create a single web page featuring a list of movies suppli
 
 ## Getting Started
 
-The directions below help you get a copy of the project running on your local machine testing.
+The directions below will show you how to get a copy of the project running on your local machine for testing.
 
 ### Prerequisites
 
-This project requires Python to run. I built this project using V 2.7.x.  Check to make sure you have Python installed.  
+This project requires Python (I built this project using V 2.7).  Check to make sure you have Python installed by running the following command.  
 
 ```
 python -V
@@ -21,15 +21,14 @@ You can download Python here: https://www.python.org/downloads/
 
 ### Installing
 
-
-cd to the directory to which you've downloaded the repo and run the entertainment_center.py file 
+cd to the directory that you've downloaded this repo to and run the entertainment_center.py file using python
 
 ```
 python entertainment_center.py 
 ```
 
-The file should automatically open a new web browser window with movie posters listed in that file displayed. 
-You can update the python entertainment_center.py file in order to 
+The file should automatically open a new web browser window with movies listed in that file displayed. 
+You can update the python entertainment_center.py file in order to customize the page.
 
 
 ## Built With
@@ -41,6 +40,6 @@ You can update the python entertainment_center.py file in order to
 ## Contributing
 
 The file fresh_tomatoes.py was provided by https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py
-
+This project was done as part of a Udacity project (https://www.udacity.com/)
 
 
